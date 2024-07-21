@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "olBHX2LxLxgw+MSOVqykwtefKO9Mw6O+PGapJPsC/FY=",
+  "Source": "IdentityAuth",
+  "BasePath": "_content/IdentityAuth",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

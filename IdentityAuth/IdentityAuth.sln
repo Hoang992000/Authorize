@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IdentityAuth", "IdentityAuth\IdentityAuth.csproj", "{77425485-0E24-42BC-AB48-C66F6A39270C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "User.Manager.Service", "User.Manager.Service\User.Manager.Service.csproj", "{BDE77EF8-2803-4E06-85E9-247AD0CCD20A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77425485-0E24-42BC-AB48-C66F6A39270C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77425485-0E24-42BC-AB48-C66F6A39270C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77425485-0E24-42BC-AB48-C66F6A39270C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77425485-0E24-42BC-AB48-C66F6A39270C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDE77EF8-2803-4E06-85E9-247AD0CCD20A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDE77EF8-2803-4E06-85E9-247AD0CCD20A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDE77EF8-2803-4E06-85E9-247AD0CCD20A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDE77EF8-2803-4E06-85E9-247AD0CCD20A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF3E5EF7-2DDD-47C0-B996-07BE69682E21}
+	EndGlobalSection
+EndGlobal

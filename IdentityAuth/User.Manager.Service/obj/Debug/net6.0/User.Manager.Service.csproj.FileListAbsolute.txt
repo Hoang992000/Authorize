@@ -1,0 +1,12 @@
+E:\visual_studio\IdentityAuth\User.Manager.Service\bin\Debug\net6.0\User.Manager.Service.deps.json
+E:\visual_studio\IdentityAuth\User.Manager.Service\bin\Debug\net6.0\User.Manager.Service.dll
+E:\visual_studio\IdentityAuth\User.Manager.Service\bin\Debug\net6.0\User.Manager.Service.pdb
+E:\visual_studio\IdentityAuth\User.Manager.Service\obj\Debug\net6.0\User.Manager.Service.csproj.AssemblyReference.cache
+E:\visual_studio\IdentityAuth\User.Manager.Service\obj\Debug\net6.0\User.Manager.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual_studio\IdentityAuth\User.Manager.Service\obj\Debug\net6.0\User.Manager.Service.AssemblyInfoInputs.cache
+E:\visual_studio\IdentityAuth\User.Manager.Service\obj\Debug\net6.0\User.Manager.Service.AssemblyInfo.cs
+E:\visual_studio\IdentityAuth\User.Manager.Service\obj\Debug\net6.0\User.Manager.Service.csproj.CoreCompileInputs.cache
+E:\visual_studio\IdentityAuth\User.Manager.Service\obj\Debug\net6.0\User.Manager.Service.dll
+E:\visual_studio\IdentityAuth\User.Manager.Service\obj\Debug\net6.0\refint\User.Manager.Service.dll
+E:\visual_studio\IdentityAuth\User.Manager.Service\obj\Debug\net6.0\User.Manager.Service.pdb
+E:\visual_studio\IdentityAuth\User.Manager.Service\obj\Debug\net6.0\ref\User.Manager.Service.dll
